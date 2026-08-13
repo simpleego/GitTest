@@ -1,2 +1,3 @@
 "Name: Student" 
 "Interest: AI" 
+"City: Seoul" 
