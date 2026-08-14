@@ -1,1 +1,1 @@
-"Favorite language: Python" 
+"Favorite language: Python and AI" 
